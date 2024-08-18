@@ -1,3 +1,5 @@
+package session2;
+
 /**
  * This class represents a simple Student with a name and age.
  */

@@ -1,3 +1,5 @@
+package session2;
+
 public class ExpressionExample {
     public static void main(String[] args) {
         int a = 10;
